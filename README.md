@@ -1,2 +1,3 @@
 # TechTrek
-This is a place where most of my language exploration codes exists
+This is a place where most of my technology exploration codes exists
+
